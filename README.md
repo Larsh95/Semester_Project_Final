@@ -9,6 +9,7 @@ For teachers and sensor
 2. The script should generate a phpmyadmin user called 'admin5' with the password '123456' granted all privileges
 3. the admin login on the webpage is 'aaa' with the password 'aaa'
 4. The signup user is automatically set to non admin.
+5. - online version is feedme.coffee
 
 Enjoy playing around on the webshop!
 
